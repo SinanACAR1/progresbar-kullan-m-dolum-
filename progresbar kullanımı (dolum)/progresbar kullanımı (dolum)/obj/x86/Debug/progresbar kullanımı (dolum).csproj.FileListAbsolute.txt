@@ -1,0 +1,7 @@
+C:\Users\arcelik\Documents\Visual Studio 2010\Projects\progresbar kullanımı (dolum)\progresbar kullanımı (dolum)\bin\Debug\progresbar kullanımı (dolum).exe
+C:\Users\arcelik\Documents\Visual Studio 2010\Projects\progresbar kullanımı (dolum)\progresbar kullanımı (dolum)\bin\Debug\progresbar kullanımı (dolum).pdb
+C:\Users\arcelik\Documents\Visual Studio 2010\Projects\progresbar kullanımı (dolum)\progresbar kullanımı (dolum)\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\arcelik\Documents\Visual Studio 2010\Projects\progresbar kullanımı (dolum)\progresbar kullanımı (dolum)\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\arcelik\Documents\Visual Studio 2010\Projects\progresbar kullanımı (dolum)\progresbar kullanımı (dolum)\obj\x86\Debug\progresbar kullanımı (dolum).csproj.GenerateResource.Cache
+C:\Users\arcelik\Documents\Visual Studio 2010\Projects\progresbar kullanımı (dolum)\progresbar kullanımı (dolum)\obj\x86\Debug\progresbar kullanımı (dolum).exe
+C:\Users\arcelik\Documents\Visual Studio 2010\Projects\progresbar kullanımı (dolum)\progresbar kullanımı (dolum)\obj\x86\Debug\progresbar kullanımı (dolum).pdb
